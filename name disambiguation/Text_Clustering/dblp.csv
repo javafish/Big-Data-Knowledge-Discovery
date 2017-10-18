@@ -1,0 +1,436 @@
+author,belong,booktitle,id,title,university,year
+"Wei Wang,Haroon Malik,Michael W. Godfrey",Wei Wang 0001,MSR,1,Recommending Posts concerning API Issues in Developer QA Sites.,University of Waterloo,2015
+"Wei Wang,Michael W. Godfrey",Wei Wang 0001,ECEASST,2,Investigating Intentional Clone Refactoring.,University of Waterloo,2014
+"Wei Wang,Michael W. Godfrey",Wei Wang 0001,ICSME,3,"Recommending Clones for Refactoring Using Design, Context, and History.",University of Waterloo,2014
+"Wei Wang,Michael W. Godfrey",Wei Wang 0001,MSR,4,Detecting API usage obstacles: a study of iOS and Android developer questions.,University of Waterloo,2013
+"Hadi Hemmati,Sarah Nadi,Olga Baysal,Oleksii Kononenko,Wei Wang,Reid Holmes,Michael W. Godfrey",Wei Wang 0001,MSR,5,The MSR cookbook: mining a decade of research.,University of Waterloo,2013
+"Wei Wang,Michael W. Godfrey",Wei Wang 0001,IWSC,6,"We have all of the clones, now what? Toward integrating clone analysis into software quality assessment.",University of Waterloo,2012
+"Wei Wang,Michael W. Godfrey",Wei Wang 0001,SCAM,7,A Study of Cloning in the Linux SCSI Drivers.,University of Waterloo,2011
+"Wei Wang,Alex X. Liu,Muhammad Shahzad,Kang Ling,Sanglu Lu",Wei Wang 0002,IEEE Journal on Selected Areas in Communications,8,Device-Free Human Activity Recognition Using Commercial WiFi Devices.,Nanjing University,2017
+"Kamran Ali,Alex X. Liu,Wei Wang,Muhammad Shahzad",Wei Wang 0002,IEEE Journal on Selected Areas in Communications,9,Recognizing Keystrokes Using WiFi Devices.,Nanjing University,2017
+"Wei Wang,Xiaobing Wu,Lei Xie,Sanglu Lu",Wei Wang 0002,Computer Communications,10,Joint storage assignment for D2D offloading systems.,Nanjing University,2016
+"Xin Xu,Wei Wang,Jianhong Wang",Wei Wang 0002,Frontiers of Computer Science,11,A three-way incremental-learning algorithm for radar emitter identification.,Nanjing University,2016
+"Wei Wang,Alex X. Liu,Muhammad Shahzad",Wei Wang 0002,UbiComp,12,Gait recognition using wifi signals.,Nanjing University,2016
+"Chuyu Wang,Lei Xie,Wei Wang,Tao Xue,Sanglu Lu",Wei Wang 0002,INFOCOM,13,Moving tag detection via physical layer analysis for large-scale RFID systems.,Nanjing University,2016
+"Wei Wang,Alex X. Liu,Ke Sun",Wei Wang 0002,MobiCom,14,Device-free gesture tracking using acoustic signals.,Nanjing University,2016
+"Wei Wang,Alex X. Liu,Ke Sun",Wei Wang 0002,MobiCom,15,Device-free gesture tracking using acoustic signals: demo.,Nanjing University,2016
+"Xin Xu,Jiaheng Lu,Wei Wang",Wei Wang 0002,PAKDD (2),16,Incremental Hierarchical Clustering of Stochastic Pattern-Based Symbolic Data.,Nanjing University,2016
+"Haipeng Dai,Yuankun Zhong,Alex X. Liu,Wei Wang,Meng Li",Wei Wang 0002,SIGMETRICS,17,Noisy Bloom Filters for Multi-Set Membership Testing.,Nanjing University,2016
+"Xin Xu,Wei Wang,Jiaheng Lu",Wei Wang 0002,DASFAA Workshops,18,Incremental Class Discriminant Analysis on Interval-Valued Emitter Signal Parameters.,Nanjing University,2015
+"Zhihua Chang,Xiaobing Wu,Wei Wang,Guihai Chen",Wei Wang 0002,GLOBECOM,19,Localization in Wireless Rechargeable Sensor Networks Using Mobile Directional Charger.,Nanjing University,2015
+"Wei Wang,Xiaobing Wu,Lei Xie,Sanglu Lu",Wei Wang 0002,INFOCOM,20,Femto-matching: Efficient traffic offloading in heterogeneous cellular networks.,Nanjing University,2015
+"Xin Xu,Wei Wang,Jiaheng Lu,Jin Chen",Wei Wang 0002,KSEM,21,Incremental Distributed Weighted Class Discriminant Analysis on Interval-Valued Emitter Parameters.,Nanjing University,2015
+"Wei Wang,Alex X. Liu,Muhammad Shahzad,Kang Ling,Sanglu Lu",Wei Wang 0002,MobiCom,22,Understanding and Modeling of WiFi Signal Based Human Activity Recognition.,Nanjing University,2015
+"Kamran Ali,Alex X. Liu,Wei Wang,Muhammad Shahzad",Wei Wang 0002,MobiCom,23,Keystroke Recognition Using WiFi Signals.,Nanjing University,2015
+"Xiang Lu,Lei Xie,Yafeng Yin,Wei Wang,Baoliu Ye,Sanglu Lu",Wei Wang 0002,ICC,24,Efficient localization based on imprecise anchors in RFID system.,Nanjing University,2014
+"An Xie,Xiaoliang Wang,Wei Wang,Sanglu Lu",Wei Wang 0002,IWQoS,25,Designing a disaster-resilient network with software defined networking.,Nanjing University,2014
+"Chao Yang,Weiping Zhu 0004,Wei Wang,Lijun Chen 0006,Daoxu Chen,Jiannong Cao",Wei Wang 0002,WCNC,26,Connectivity-based virtual potential field localization in wireless sensor networks.,Nanjing University,2014
+"Lichun Li,Xin Xu,Jun Wang,Wei Wang",Wei Wang 0002,Peer-to-Peer Networking and Applications,27,DS2: A DHT-based substrate for distributed services.,Nanjing University,2013
+"Xin Xu,Wei Wang,Guilin Zhang",Wei Wang 0002,FUSION,28,Evaluation of mixed-valued features Via set cover criteria.,Nanjing University,2013
+"Xin Xu,Wei Wang",Wei Wang 0002,IJPRAI,29,An Incremental Gray Relational Analysis Algorithm for Multi-Class Classification and Outlier Detection.,Nanjing University,2012
+"Xin Xu,Wei Wang,Guilin Zhang,Yongsheng Yu",Wei Wang 0002,FUSION,30,An adaptive feature selection method for multi-class classification.,Nanjing University,2012
+"Xin Xu,Wei Wang,Xin Chen",Wei Wang 0002,ACIS-ICIS,31,Detecting and Visualizing Profile Correlation in Subspace.,Nanjing University,2011
+"Farshad Ahdi,Wei Wang,Vikram Srinivasan,Kee Chaing Chua",Wei Wang 0002,Wireless Networks,32,IPS-MAC: an informative preamble sampling MAC protocol for wireless sensor networks.,Nanjing University,2010
+"Wei Wang,Mehul Motani,Vikram Srinivasan",Wei Wang 0002,IEEE/ACM Trans. Netw.,33,Opportunistic energy-efficient contact probing in delay-tolerant applications.,Nanjing University,2009
+"Bang Wang,Kee Chaing Chua,Vikram Srinivasan,Wei Wang",Wei Wang 0002,Wireless Communications and Mobile Computing,34,Scheduling sensor activity for information coverage of discrete targets in sensor networks.,Nanjing University,2009
+"Kun Tan,He Liu,Ji Fang,Wei Wang,Jiansong Zhang,Mi Chen,Geoffrey M. Voelker",Wei Wang 0002,MobiCom,35,SAM: enabling practical spatial multiple access in wireless LAN.,Nanjing University,2009
+"Kun Tan,Jiansong Zhang,Ji Fang,He Liu,Yusheng Ye,Shen Wang,Yongguang Zhang,Haitao Wu,Wei Wang,Geoffrey M. Voelker",Wei Wang 0002,NSDI,36,Sora: High Performance Software Radio Using General Purpose Multi-core Processors.,Nanjing University,2009
+"Wei Wang,Lawrence Ong,Mehul Motani",Wei Wang 0002,WiOpt,37,Transmission schedule optimization for half-duplex multiple-relay networks.,Nanjing University,2009
+"Wei Wang,Vikram Srinivasan,Kee Chaing Chua",Wei Wang 0002,IEEE Trans. Mob. Comput.,38,Power Control for Distributed MAC Protocols in Wireless Ad Hoc Networks.,Nanjing University,2008
+"Wei Wang,Vikram Srinivasan,Kee Chaing Chua",Wei Wang 0002,IEEE Trans. Mob. Comput.,39,Coverage in Hybrid Mobile Sensor Networks.,Nanjing University,2008
+"Wei Wang,Vikram Srinivasan,Kee Chaing Chua",Wei Wang 0002,IEEE/ACM Trans. Netw.,40,Extending the lifetime of wireless sensor networks through mobile relays.,Nanjing University,2008
+"Wei Wang,Vikram Srinivasan,Bang Wang,Kee Chaing Chua",Wei Wang 0002,IEEE Trans. Wireless Communications,41,Coverage for target localization in wireless sensor networks.,Nanjing University,2008
+"Wei Wang,Mehul Motani,Vikram Srinivasan",Wei Wang 0002,ACM Conference on Computer and Communications Security,42,Dependent link padding algorithms for low latency anonymity systems.,Nanjing University,2008
+"Bang Wang,Kee Chaing Chua,Vikram Srinivasan,Wei Wang",Wei Wang 0002,IEEE Trans. Wireless Communications,43,Information Coverage in Randomly Deployed Wireless Sensor Networks.,Nanjing University,2007
+"Wei Wang,Vikram Srinivasan,Kee Chaing Chua,Bang Wang",Wei Wang 0002,IPSN,44,Energy-efficient coverage for target detection in wireless sensor networks.,Nanjing University,2007
+"Bang Wang,Vikram Srinivasan,Kee Chaing Chua,Wei Wang",Wei Wang 0002,LCN,45,Information Coverage and Network Lifetime in Energy Constrained Wireless Sensor Networks.,Nanjing University,2007
+"Wei Wang,Vikram Srinivasan,Kee Chaing Chua",Wei Wang 0002,MobiCom,46,Trade-offs between mobility and density for coverage in wireless sensor networks.,Nanjing University,2007
+"Wei Wang,Vikram Srinivasan,Mehul Motani",Wei Wang 0002,MobiCom,47,Adaptive contact probing mechanisms for delay tolerant applications.,Nanjing University,2007
+"Bang Wang,Kee Chaing Chua,Vikram Srinivasan,Wei Wang",Wei Wang 0002,EWSN,48,Sensor Density for Complete Information Coverage in Wireless Sensor Networks.,Nanjing University,2006
+"Wei Wang,Vikram Srinivasan,Bang Wang,Kee Chaing Chua",Wei Wang 0002,IPSN,49,Coverage for target localization in wireless sensor networks.,Nanjing University,2006
+"Bang Wang,Kee Chaing Chua,Vikram Srinivasan,Wei Wang",Wei Wang 0002,WiOpt,50,Scheduling sensor activity for point information coverage in wireless sensor networks.,Nanjing University,2006
+"Bang Wang,Wei Wang,Vikram Srinivasan,Kee Chaing Chua",Wei Wang 0002,IEEE Communications Letters,51,Information coverage for wireless sensor networks.,Nanjing University,2005
+"Wei Wang,Vikram Srinivasan,Kee Chaing Chua",Wei Wang 0002,MobiCom,52,Using mobile relays to prolong the lifetime of wireless sensor networks.,Nanjing University,2005
+"Bang Wang,Kee Chaing Chua,Wei Wang,Vikram Srinivasan",Wei Wang 0002,MSN,53,Worst and Best Information Exposure Paths in Wireless Sensor Networks.,Nanjing University,2005
+"Bang Wang,Kee Chaing Chua,Vikram Srinivasan,Wei Wang",Wei Wang 0002,MSN,54,Localized Recursive Estimation in Wireless Sensor Networks.,Nanjing University,2005
+"Seungwon Lee,Lei Pan,Chengxing Zhai,Benyang Tang,Terry Kubar,Jia Zhang,Wei Wang",Wei Wang 0003,Big Data,55,Climate model diagnostic analyzer.,State University of New York at Albany,2015
+"Jia Zhang,Wei Wang,Xing Wei,Chris Lee 0002,Seungwon Lee,Lei Pan,Tsengdar J. Lee",Wei Wang 0003,ICWS,56,Climate Analytics Workflow Recommendation as a Service - Provenance-Driven Automatic Workflow Mashup.,State University of New York at Albany,2015
+"Benjamin Backes,Colin McDonough,Larry Smith 0004,Wei Wang,Robert E. Geer",Wei Wang 0003,J. Electronic Testing,57,Effects of Copper Plasticity on the Induction of Stress in Silicon from Copper Through-Silicon Vias (TSVs) for 3D Integrated Circuits.,State University of New York at Albany,2012
+"Zine Abid,Ming Liu,Wei Wang",Wei Wang 0003,IEEE Trans. Computers,58,3D Integration of CMOL Structures for FPGA Applications.,State University of New York at Albany,2011
+"Sansiri Tanachutiwat,Ming Liu,Wei Wang",Wei Wang 0003,IEEE Trans. VLSI Syst.,59,FPGA Based on Integration of CMOS and RRAM.,State University of New York at Albany,2011
+"Le Yu,Haigang Yang,Jia Zhang,Wei Wang",Wei Wang 0003,VLSI-SoC,60,Performance evaluation of air-gap-based coaxial RF TSV for 3D NoC.,State University of New York at Albany,2011
+"Jia Zhang,Le Yu,Haigang Yang,Y. L. Xie,F. B. Zhou,Wei Wang",Wei Wang 0003,VLSI-SoC,61,Self-test method and recovery mechanism for high frequency TSV array.,State University of New York at Albany,2011
+"Sansiri Tanachutiwat,Ji Ung Lee,Wei Wang,Chun Yung Sung",Wei Wang 0003,DAC,62,Reconfigurable multi-function logic based on graphene P-N junctions.,State University of New York at Albany,2010
+"Harika Manem,Garrett S. Rose,Xiaoli He,Wei Wang",Wei Wang 0003,ACM Great Lakes Symposium on VLSI,63,Design considerations for variation tolerant multilevel CMOS/Nano memristor memory.,State University of New York at Albany,2010
+"Le Yu,Haigang Yang,Tom T. Jing,Min Xu,Robert E. Geer,Wei Wang",Wei Wang 0003,ICCAD,64,Electrical characterization of RF TSV for 3D multi-core and heterogeneous ICs.,State University of New York at Albany,2010
+"Wei Wang,Tom T. Jing,Brian Butcher",Wei Wang 0003,ISCAS,65,cFPGA: CNT emerging memory-based FPGA.,State University of New York at Albany,2010
+"Wei Wang,Tom T. Jing,Brian Butcher",Wei Wang 0003,ISCAS,66,FPGA based on integration of memristors and CMOS devices.,State University of New York at Albany,2010
+"Weng Hong Teh,Raymond Caramto,Jamal Qureshi,Sitaram Arkalgud,M. O'Brien,T. Gilday,Kou Maekawa,T. Saito,Kouichi Maruyama,Thenappan Chidambaram,Wei Wang,David Marx,David Grant,Russ Dudley",Wei Wang 0003,3DIC,67,"A route towards production-worthy 5 ?m ¡Á 25 ?m and 1 ?m ¡Á 20 ?m non-Bosch through-silicon-via (TSV) etch, TSV metrology, and TSV integration.",State University of New York at Albany,2009
+"Sansiri Tanachutiwat,Shuhong Liu,Robert E. Geer,Wei Wang",Wei Wang 0003,ISCAS,68,Monolithic Graphene Nanoribbon Electronics for Interconnect Performance Improvement.,State University of New York at Albany,2009
+"Ming Liu,Haigang Yang,Sansiri Tanachutiwat,Wei Wang",Wei Wang 0003,NANOARCH,69,FPGA based on integration of carbon nanorelays and CMOS devices.,State University of New York at Albany,2009
+"Ming Liu,Haigang Yang,Sansiri Tanachutiwat,Wei Wang",Wei Wang 0003,NanoNet,70,Carbon Nanotube Nanorelays with Pass-Transistor for FPGA Routing Devices.,State University of New York at Albany,2009
+"Zine-Eddine Abid,Wei Wang",Wei Wang 0003,I. J. Network Security,71,Countermeasures for Hardware Fault Attack in Multi-Prime RSA Cryptosystems.,State University of New York at Albany,2008
+"Liwei Shang,Ming Liu,Sansiri Tanachutiwat,Wei Wang",Wei Wang 0003,ISCAS,72,Analyzing mixed carbon nanotube bundles: A current density study.,State University of New York at Albany,2008
+"Zine Abid,Wei Wang",Wei Wang 0003,ISCAS,73,New designs of Redundant-Binary full Adders and its applications.,State University of New York at Albany,2008
+"Ming Liu,Wei Wang",Wei Wang 0003,NANOARCH,74,rFGA: CMOS-nano hybrid FPGA using RRAM components.,State University of New York at Albany,2008
+"Kevin Ryan,Sansiri Tanachutiwat,Wei Wang",Wei Wang 0003,NanoNet,75,3D CMOL Crossnet for Neuromorphic Network Applications.,State University of New York at Albany,2008
+"Ming Liu,Hua Yu,Wei Wang",Wei Wang 0003,NanoNet,76,FPAA Based on Integration of CMOS and Nanojunction Devices for Neuromorphic Applications.,State University of New York at Albany,2008
+"Sansiri Tanachutiwat,Wei Wang",Wei Wang 0003,NanoNet,77,Exploring Multi-layer Graphene Nanoribbon Interconnects.,State University of New York at Albany,2008
+"Sining Liu,Brian King,Wei Wang",Wei Wang 0003,MONET,78,Hardware Organization to Achieve High-Speed Elliptic Curve Cryptography for Mobile Devices.,State University of New York at Albany,2007
+"Chen Dong,Deming Chen,S. Haruehanroengra,Wei Wang",Wei Wang 0003,IEEE Trans. on Circuits and Systems,79,3-D nFPGA: A Reconfigurable Architecture for 3-D CMOS/Nanomaterial Hybrid Digital Circuits.,State University of New York at Albany,2007
+"Chen Dong,Deming Chen,Sansiri Tanachutiwat,Wei Wang",Wei Wang 0003,ICCAD,80,Performance and power evaluation of a 3D CMOS/nanomaterial reconfigurable architecture.,State University of New York at Albany,2007
+"Dayong Li,Ming Liu,Wei Wang",Wei Wang 0003,ISCAS,81,Fault Tolerance Circuit for AM-OLED.,State University of New York at Albany,2007
+"Wei Wang,Ming Liu,Andrew Hsu",Wei Wang 0003,J. Comput. Sci. Technol.,82,Hybrid Nanoelectronics: Future of Computer Technology.,State University of New York at Albany,2006
+"Sining Liu,Brian King,Wei Wang",Wei Wang 0003,DASC,83,A CRT-RSA Algorithm Secure against Hardware Fault Attacks.,State University of New York at Albany,2006
+"Chen Dong,S. Haruehanroengra,Wei Wang",Wei Wang 0003,ISCAS,84,Exploring carbon nanotubes and NiSi nanowires as on-chip interconnections.,State University of New York at Albany,2006
+"Sining Liu,Francis Bowen,Brian King,Wei Wang",Wei Wang 0003,ISCAS,85,Elliptic curves cryptosystem implementation based on a look-up table sharing scheme.,State University of New York at Albany,2006
+"Shahab Salehi,B. M. Handjojo,Wei Wang,Yaobin Chen",Wei Wang 0003,ISCAS,86,An efficient adaptive interlace-to-progressive scan conversion scheme and hardware implementation.,State University of New York at Albany,2006
+"Rumi Zhang,Graham A. Jullien,Wei Wang,Anestis Dounavis",Wei Wang 0003,ISCAS,87,Passive reduced-order macromodeling algorithm for structure dynamics in MEMS systems.,State University of New York at Albany,2006
+"Wei Wang,Adam Maina Ari,Woon Ket Wong",Wei Wang 0003,Nano-Net,88,On-Chip Interconnects and Repeaters Based on NiSi Nanowires.,State University of New York at Albany,2006
+"Ying Yang,Zine-Eddine Abid,Wei Wang",Wei Wang 0003,ACM Great Lakes Symposium on VLSI,89,Two-prime RSA immune cryptosystem and its FPGA implementation.,State University of New York at Albany,2005
+"Rumi Zhang,Wei Wang,Konrad Walus,Graham A. Jullien",Wei Wang 0003,ISCAS (3),90,Performance comparison of quantum-dot cellular automata adders.,State University of New York at Albany,2005
+"Yonghong Yang,Zine Abid,Wei Wang,Z. Zhang,C. Yang",Wei Wang 0003,ISCAS (5),91,Efficient multi-prime RSA immune against hardware fault attack.,State University of New York at Albany,2005
+"Shaoqiang Bi,Warren J. Gross,Wei Wang,Asim J. Al-Khalili,M. N. S. Swamy",Wei Wang 0003,IWSOC,92,An Area-Reduced Scheme for Modulo 2n-1 Addition/Subtraction.,State University of New York at Albany,2005
+"Wei Wang,Xiaolin Zhang 0002,Chenyang Yang,M. N. S. Swamy,M. Omair Ahmad",Wei Wang 0003,SNPD,93,RRNS Quasi-Chaotic Coding and Its FPGA Implementation.,State University of New York at Albany,2005
+"Wei Wang,M. N. S. Swamy,M. Omair Ahmad",Wei Wang 0003,"Journal of Circuits, Systems, and Computers",94,Novel Design and Fpga Implementation of Da-rns Fir Filters.,State University of New York at Albany,2004
+"Shaoqiang Bi,Wei Wang,Asim J. Al-Khalili",Wei Wang 0003,ICASSP (5),95,New modulo decomposed residue-to-binary algorithm for general moduli sets.,State University of New York at Albany,2004
+"Shaoqiang Bi,Wei Wang,Asim J. Al-Khalili",Wei Wang 0003,ISCAS (2),96,Modulo deflation in (2,State University of New York at Albany,2004
+"Daniel Dai,Yehea I. Ismail,Wei Wang,Hanif M. Ladak",Wei Wang 0003,ISCAS (3),97,Powder-based fabrication techniques for single-wall carbon nanotube circuits.,State University of New York at Albany,2004
+"Wei Wang,M. N. S. Swamy,M. Omair Ahmad",Wei Wang 0003,IWSOC,98,RNS Application for Digital Image Processing.,State University of New York at Albany,2004
+"Yonghong Yang,Zine-Eddine Abid,Wei Wang",Wei Wang 0003,SNPD,99,An Immune CRT-Based Three-prime RSA cryptosystem.,State University of New York at Albany,2004
+"Wei Wang,M. N. S. Swamy,M. Omair Ahmad",Wei Wang 0003,ISCAS (4),100,Moduli selection in RNS for efficient VLSI implementation.,State University of New York at Albany,2003
+"Wei Wang,M. N. S. Swamy,M. Omair Ahmad,Yuke Wang",Wei Wang 0003,VLSI Design,101,"A Parallel Residue-to-binary Converter for the Moduli Set {2m-1, 220m+1, 221m+1, ..., 22km+1}.",State University of New York at Albany,2002
+"Wei Wang,M. N. S. Swamy,M. Omair Ahmad",Wei Wang 0003,ISCAS (5),102,A new architecture of RRNS error-correcting QC encoder/decoder and its FPGA implementation.,State University of New York at Albany,2002
+"Wei Wang,M. N. S. Swamy,M. Omair Ahmad,Yuke Wang",Wei Wang 0003,ICASSP,103,A parallel residue-to-binary converter.,State University of New York at Albany,1999
+"Wei Wang,M. N. S. Swamy,M. Omair Ahmad,Yuke Wang",Wei Wang 0003,ISCAS (6),104,A high-speed residue-to-binary converter and a scheme for its VLSI implementation.,State University of New York at Albany,1999
+"Lusheng Chen,Wei Wang,Shaoping Ling,Caiyan Jia,Fei Wang",Wei Wang 0004,Nucleic Acids Research,105,KemaDom: a web server for domain prediction using kernel machine with local context.,Fudan University,2006
+"Wei Wang,Yao Zheng,Guanghua Song",Wei Wang 0005,IEEE SCC,106,The Design and Implementation of Scalable Information Services in a Grid Environment.,Zhejiang University,2005
+"Guiyi Wei,Guangming Wang,Yao Zheng,Wei Wang",Wei Wang 0005,International Conference on Computational Science (1),107,The Design and Implementation of Extensible Information Services.,Zhejiang University,2005
+"Guiyi Wei,Guanghua Song,Yao Zheng,Cuiju Luan,Chaoyan Zhu,Wei Wang",Wei Wang 0005,IEEE SCC,108,MASSIVE: A Multidisciplinary Applications-Oriented Simulation and Visualization Environment.,Zhejiang University,2004
+"Wei Wang,Jonathan May,Kevin Knight,Daniel Marcu",Wei Wang 0006,Computational Linguistics,109,"Re-structuring, Re-labeling, and Re-aligning for Syntax-Based Machine Translation.",Language Weaver,2010
+"David Chiang,Kevin Knight,Wei Wang",Wei Wang 0006,HLT-NAACL,110,"11,001 New Features for Statistical Machine Translation.",Language Weaver,2009
+"Wei Wang,Kevin Knight,Daniel Marcu",Wei Wang 0006,EMNLP-CoNLL,111,Binarizing Syntax Trees to Improve Syntax-Based Machine Translation Accuracy.,Language Weaver,2007
+"Steve DeNeefe,Kevin Knight,Wei Wang,Daniel Marcu",Wei Wang 0006,EMNLP-CoNLL,112,What Can Syntax-Based MT Learn from Phrase-Based MT?,Language Weaver,2007
+"Michel Galley,Jonathan Graehl,Kevin Knight,Daniel Marcu,Steve DeNeefe,Wei Wang,Ignacio Thayer",Wei Wang 0006,ACL,113,Scalable Inference and Training of Context-Rich Syntactic Translation Models.,Language Weaver,2006
+"Daniel Marcu,Wei Wang,Abdessamad Echihabi,Kevin Knight",Wei Wang 0006,EMNLP,114,SPMT: Statistical Machine Translation with Syntactified Target Language Phrases.,Language Weaver,2006
+"Wei Wang,Kevin Knight,Daniel Marcu",Wei Wang 0006,HLT-NAACL,115,Capitalizing Machine Translation.,Language Weaver,2006
+"Wei Wang,Ping Lv,Qingwei Zhao,Yonghong Yan 0002",Wei Wang 0007,IbPRIA (1),116,A Decision-Tree-Based Online Speaker Clustering.,Chinese Academy of Sciences,2007
+"Wei Wang,Jean-Jacques E. Slotine",Wei Wang 0008,Neurocomputing,117,Fast computation with neural oscillators.,MIT,2006
+"Wei Wang,Jean-Jacques E. Slotine",Wei Wang 0008,IEEE Trans. Automat. Contr.,118,Contraction analysis of time-delayed communications and group cooperation.,MIT,2006
+"Wei Wang,Jean-Jacques E. Slotine",Wei Wang 0008,IEEE Trans. Automat. Contr.,119,A theoretical study of different leader roles in networks.,MIT,2006
+"Wei Wang,Jean-Jacques E. Slotine",Wei Wang 0008,Biological Cybernetics,120,On partial contraction analysis for coupled nonlinear oscillators.,MIT,2005
+"Wanyun Cui,Yanghua Xiao,Haixun Wang,Yangqiu Song,Seung-won Hwang,Wei Wang",Wei Wang 0009,PVLDB,121,KBQA: Learning Question Answering over QA Corpora and Knowledge Bases.,Fudan University,2017
+"Jiaqing Liang,Yanghua Xiao,Haixun Wang,Yi Zhang,Wei Wang",Wei Wang 0009,IEEE Trans. Knowl. Data Eng.,122,Probase+: Inferring Missing Links in Conceptual Taxonomies.,Fudan University,2017
+"Jiaqing Liang,Yi Zhang,Yanghua Xiao,Haixun Wang,Wei Wang,Pinpin Zhu",Wei Wang 0009,AAAI,123,On the Transitivity of Hypernym-Hyponym Relations in Data-Driven Lexical Taxonomies.,Fudan University,2017
+"Yiqi Lu,Jiaqing Liang,Yanghua Xiao,Sheng Huang,Deqing Yang,Wei Wang,Haibo Lin",Wei Wang 0009,COMPSAC (1),124,XMLValue: XML Configuration Attribute Value Recommendation.,Fudan University,2017
+"Wanyun Cui,Xiyou Zhou,Hangyu Lin,Yanghua Xiao,Haixun Wang,Seung-won Hwang,Wei Wang",Wei Wang 0009,AAAI,125,Verb Pattern: A Probabilistic Semantic Representation on Verbs.,Fudan University,2016
+"Bo Xu,Yi Zhang,Jiaqing Liang,Yanghua Xiao,Seung-won Hwang,Wei Wang",Wei Wang 0009,DASFAA (1),126,Cross-Lingual Type Inference.,Fudan University,2016
+"Bo Xu,Chenhao Xie,Yi Zhang,Yanghua Xiao,Haixun Wang,Wei Wang",Wei Wang 0009,IJCAI,127,Learning Defining Features for Categories.,Fudan University,2016
+"Wanyun Cui,Yanghua Xiao,Wei Wang",Wei Wang 0009,IJCAI,128,KBQA: An Online Template Based Question Answering System over Freebase.,Fudan University,2016
+"Hao Wu,Jiangyun Mao,Weiwei Sun,Baihua Zheng,Hanyuan Zhang,Ziyang Chen,Wei Wang",Wei Wang 0009,KDD,129,Probabilistic Robust Route Recovery with Spatio-Temporal Dynamics.,Fudan University,2016
+"Mingxi Zhang,Hao Hu,Zhenying He,Wei Wang",Wei Wang 0009,Expert Syst. Appl.,130,Top-k similarity search in heterogeneous information networks with x-star network schema.,Fudan University,2015
+"Wei Wang,Wan Hui,Du Kai,Xu Yang",Wei Wang 0009,Journal of Intelligent and Fuzzy Systems,131,On open problems based on fuzzy filters of pseudo BCK-algebras.,Fudan University,2015
+"Deqing Yang,Yanghua Xiao,Hanghang Tong,Wanyun Cui,Wei Wang",Wei Wang 0009,ASONAM,132,Towards Topic Following in Heterogeneous Information Networks.,Fudan University,2015
+"Deqing Yang,Jingrui He,Huazheng Qin,Yanghua Xiao,Wei Wang",Wei Wang 0009,CIKM,133,A Graph-based Recommendation across Heterogeneous Domains.,Fudan University,2015
+"Hao Wu,Chuanchuan Tu,Weiwei Sun,Baihua Zheng,Hao Su,Wei Wang",Wei Wang 0009,CIKM,134,GLUE: a Parameter-Tuning-Free Map Updating System.,Fudan University,2015
+"Deqing Yang,Yanghua Xiao,Hanghang Tong,Junjun Zhang,Wei Wang",Wei Wang 0009,DASFAA (1),135,An Integrated Tag Recommendation Algorithm Towards Weibo User Profiling.,Fudan University,2015
+"Qing Chen,Zijing Tan,Chu He,Chaofeng Sha,Wei Wang",Wei Wang 0009,DASFAA (1),136,Repairing Functional Dependency Violations in Distributed Data.,Fudan University,2015
+"Deqing Yang,Yanghua Xiao,Yangqiu Song,Wei Wang",Wei Wang 0009,ICDM,137,Semantic-Based Recommendation Across Heterogeneous Domains.,Fudan University,2015
+"Xiangyan Sun,Yanghua Xiao,Haixun Wang,Wei Wang",Wei Wang 0009,IJCAI,138,On Conceptual Labeling of a Bag of Words.,Fudan University,2015
+"Xiaoping Wang,Yanghua Xiao,Wei Wang",Wei Wang 0009,WAIM,139,Web Knowledge Base Improved OCR Correction for Chinese Business Cards.,Fudan University,2015
+"Xiaoping Wang,Yanghua Xiao,Wei Wang",Wei Wang 0009,WAIM,140,Shortest Path and Word Vector Based Relation Representation and Clustering.,Fudan University,2015
+"Kezun Zhang,Yanghua Xiao,Hanghang Tong,Haixun Wang,Wei Wang",Wei Wang 0009,CIKM,141,WiiCluster: a Platform for Wikipedia Infobox Generation.,Fudan University,2014
+"Hao Hu,Mingxi Zhang,Zhenying He,Peng Wang,Wei Wang,Chengfei Liu",Wei Wang 0009,DASFAA (2),142,Topical Presentation of Search Results on Database.,Fudan University,2014
+"Qiuhong Li,Peng Wang,Wei Wang,Hao Hu,Zhongsheng Li,Junxian Li",Wei Wang 0009,DASFAA (1),143,An Efficient K-means Clustering Algorithm on MapReduce.,Fudan University,2014
+"Chu He,Zijing Tan,Qing Chen,Chaofeng Sha,Zhihui Wang,Wei Wang",Wei Wang 0009,DASFAA (2),144,Repair Diversification for Functional Dependency Violations.,Fudan University,2014
+"Qiyang Duan,Mingxi Wu,Peng Wang,Wei Wang,Yu Cao",Wei Wang 0009,DEXA (2),145,A Probabilistic Approach to Detect Local Dependencies in Streams.,Fudan University,2014
+"Philip S. Yu,Masaru Kitsuregawa,Hiroshi Motoda,Bart Goethals,Minyi Guo,Longbing Cao,George Karypis,Irwin King,Wei Wang",Wei Wang 0009,DSAA,146,Welcome from DSAA 2014 chairs.,Fudan University,2014
+"Wanyun Cui,Yanghua Xiao,Haixun Wang,Wei Wang",Wei Wang 0009,SIGMOD Conference,147,Local search of communities in large graphs.,Fudan University,2014
+"Deqing Yang,Yanghua Xiao,Yangqiu Song,Junjun Zhang,Kezun Zhang,Wei Wang",Wei Wang 0009,WWW (Companion Volume),148,Tag propagation based recommendation across diverse social media.,Fudan University,2014
+"Zijing Tan,Liyong Zhang,Wei Wang,Baile Shi",Wei Wang 0009,Inf. Process. Manage.,149,XML data exchange with target constraints.,Fudan University,2013
+"Yang Wang,Peng Wang,Jian Pei,Wei Wang,Sheng Huang",Wei Wang 0009,PVLDB,150,A Data-adaptive and Dynamic Segmentation Index for Whole Matching on Time Series.,Fudan University,2013
+"Yujia Li,Xianmang He,Wei Wang,HuaHui Chen,Zhihui Wang",Wei Wang 0009,APWeb,151,Preservation of Proximity Privacy in Publishing Categorical Sensitive Data.,Fudan University,2013
+"Wen Chan,Weidong Yang,Jinhui Tang,Jintao Du,Xiangdong Zhou,Wei Wang",Wei Wang 0009,CIKM,152,Community question topic categorization via hierarchical kernelized classification.,Fudan University,2013
+"Wei Wang,Zeng-li Liu,Chen Lin,Weiwei Sha",Wei Wang 0009,CIS,153,Harmonic Detection of Power System Based on SVD and EMD.,Fudan University,2013
+"Xiaomin Xu,Yiqi Lu,Sheng Huang,Yanghua Xiao,Wei Wang",Wei Wang 0009,ECML/PKDD (3),154,Incremental Sensor Placement Optimization on Water Network.,Fudan University,2013
+"Wanyun Cui,Yanghua Xiao,Haixun Wang,Yiqi Lu,Wei Wang",Wei Wang 0009,SIGMOD Conference,155,Online search of overlapping communities.,Fudan University,2013
+"Qiuhong Li,Wei Wang,Peng Wang,Ke Dai,Zhihui Wang,Yang Wang,Weiwei Sun",Wei Wang 0009,WAIM,156,Combination of In-Memory Graph Computation with MapReduce: A Subgraph-Centric Method of PageRank.,Fudan University,2013
+"Yujia Li,Dong Li,Xianmang He,Wei Wang,HuaHui Chen",Wei Wang 0009,WAIM,157,"The Hardness of (¦Å, m)-anonymity.",Fudan University,2013
+"Qiuhong Li,Ke Dai,Wei Wang,Peng Wang,Rongming He,Mingxiu Dong",Wei Wang 0009,Web Intelligence,158,Exploring Computation Locality of Graph Mining Algorithms on MapReduce.,Fudan University,2013
+"Hao Hu,Mingxi Zhang,Zhenying He,Peng Wang,Wei Wang",Wei Wang 0009,Web Intelligence,159,Diversifying Query Suggestions by Using Topics from Wikipedia.,Fudan University,2013
+"Hiroshi Motoda,Zhaohui Wu,Longbing Cao,Osmar R. Za?ane,Min Yao,Wei Wang",Wei Wang 0009,ADMA (1),160,"Advanced Data Mining and Applications, 9th International Conference, ADMA 2013, Hangzhou, China, December 14-16, 2013, Proceedings, Part I",Fudan University,2013
+"Hiroshi Motoda,Zhaohui Wu,Longbing Cao,Osmar R. Za?ane,Min Yao,Wei Wang",Wei Wang 0009,ADMA (2),161,"Advanced Data Mining and Applications - 9th International Conference, ADMA 2013, Hangzhou, China, December 14-16, 2013, Proceedings, Part II",Fudan University,2013
+"Wen Chan,Xiangdong Zhou,Wei Wang,Tat-Seng Chua",Wei Wang 0009,ACL (1),162,Community Answer Summarization for Multi-Sentence Question with Group L1 Regularization.,Fudan University,2012
+"Sheng Huang,Yanghua Xiao,Yiqi Lu,Wei Wang,Yu Wang",Wei Wang 0009,COMPSAC,163,XMLSnippet: A Coding Assistant for XML Configuration Snippet Recommendation.,Fudan University,2012
+"Xianmang He,Wei Wang,HuaHui Chen,Guang Jin,Yefang Chen,Yihong Dong",Wei Wang 0009,DEXA (1),164,Enhancing Utility and Privacy-Safety via Semi-homogenous Generalization.,Fudan University,2012
+"Yanghua Xiao,Ji Hong,Wanyun Cui,Zhenying He,Wei Wang,Guodong Feng",Wei Wang 0009,ICDE,165,Branch Code: A Labeling Scheme for Efficient Query Answering on Trees.,Fudan University,2012
+"Sheng Huang,Yiqi Lu,Yanghua Xiao,Wei Wang",Wei Wang 0009,ICSE,166,Mining application repository to recommend XML configuration snippets.,Fudan University,2012
+"Sheng Huang,Xiaomin Xu,Yanghua Xiao,Wei Wang",Wei Wang 0009,ICWS,167,Cloud Based Test Coverage Service.,Fudan University,2012
+"Huisheng Zhu,Peng Wang,Wei Wang,Baile Shi",Wei Wang 0009,IJCNN,168,Discovering Frequent Closed Episodes from an event sequence.,Fudan University,2012
+"Xiaomin Xu,Sheng Huang,Yanghua Xiao,Wei Wang",Wei Wang 0009,SPLASH,169,SCuV: a novel software clustering and visualization tool.,Fudan University,2012
+"Deqing Yang,Yanghua Xiao,Bo Xu,Hanghang Tong,Wei Wang,Sheng Huang",Wei Wang 0009,ECML/PKDD (2),170,Which Topic Will You Follow?,Fudan University,2012
+"Jidong Chen,Wentao Wu 0001,Hang Guo,Wei Wang",Wei Wang 0009,SDM,171,Context-aware Search for Personal Information Management Systems.,Fudan University,2012
+"Jing Zeng,Zhenying He,Wei Wang,Hai Huang",Wei Wang 0009,WAIM Workshops,172,A Classification Framework for Similar Music Search.,Fudan University,2012
+"Mingxi Zhang,Zhenying He,Hao Hu,Wei Wang",Wei Wang 0009,Web Intelligence,173,E-rank: A Structural-Based Similarity Measure in Social Networks.,Fudan University,2012
+"Jianping Zeng,Jiangjiao Duan,Wei Wang,Chengrong Wu",Wei Wang 0009,Expert Syst. Appl.,174,Semantic multi-grain mixture topic model for text analysis.,Fudan University,2011
+"Qiyang Duan,Peng Wang,Mingxi Wu,Wei Wang,Sheng Huang",Wei Wang 0009,DEXA (2),175,Approximate Query on Historical Stream Data.,Fudan University,2011
+"Qiuhong Li,Zhihui Wang,Wei Wang,Yimin Liu,Peng Wang,Tao Yu",Wei Wang 0009,ICDM Workshops,176,LI-MR: A Local Iteration Map/Reduce Model and Its Application to Mine Community Structure in Large-Scale Networks.,Fudan University,2011
+"Huisheng Zhu,Peng Wang,Wei Wang,Baile Shi",Wei Wang 0009,ICDM Workshops,177,Stream Prediction Using Representative Episode Rules.,Fudan University,2011
+"Sheng Huang,Zhong Jie Li,Jun Zhu,Yanghua Xiao,Wei Wang",Wei Wang 0009,ICSM,178,A novel approach to regression test selection for J2EE applications.,Fudan University,2011
+"Sheng Huang,Zhong Jie Li,Ying Liu,Jun Zhu,Yanghua Xiao,Wei Wang",Wei Wang 0009,ICWS,179,Regression Testing as a Service.,Fudan University,2011
+"Xianmang He,Yanghua Xiao,Yujia Li,Qing Wang,Wei Wang,Baile Shi",Wei Wang 0009,PAKDD Workshops,180,Permutation Anonymization: Improving Anatomy for Privacy Preservation in Data Publication.,Fudan University,2011
+"Jidong Chen,Hang Guo,Wentao Wu 0001,Wei Wang",Wei Wang 0009,SIGIR,181,iMecho: a context-aware desktop search system.,Fudan University,2011
+"Peng Wang,Haixun Wang,Wei Wang",Wei Wang 0009,SIGMOD Conference,182,Finding semantics in time series.,Fudan University,2011
+"Xianmang He,Yanghua Xiao,Yujia Li,Qing Wang,Wei Wang,Baile Shi",Wei Wang 0009,SSDBM,183,Dynamic Anonymization for Marginal Publication.,Fudan University,2011
+"Hui Wang,Jinyuan Huang,Xiaomin Xu,Yanghua Xiao,Wei Wang",Wei Wang 0009,CoRR,184,Robustness of Complex Networks against Attacks Guided by Damage,Fudan University,2011
+"Jianping Zeng,Chengrong Wu,Wei Wang",Wei Wang 0009,Expert Syst. Appl.,185,Multi-grain hierarchical topic extraction algorithm for text mining.,Fudan University,2010
+"Ai-Hua Wu,Zijing Tan,Wei Wang",Wei Wang 0009,J. Comput. Sci. Technol.,186,Annotation Based Query Answer over Inconsistent Database.,Fudan University,2010
+"Zijing Tan,Chengfei Liu,Wei Wang,Baile Shi",Wei Wang 0009,Journal of Systems and Software,187,Consistent query answers from virtually integrated XML data.,Fudan University,2010
+"Zhenhua Huang,Sheng-Li Sun,Wei Wang",Wei Wang 0009,Knowl. Inf. Syst.,188,Efficient mining of skyline objects in subspaces over data streams.,Fudan University,2010
+"Jiaqi Zhang,Zhenying He,Yue Tao,Xiansheng Wang,Hao Hu,Wei Wang",Wei Wang 0009,DEXA (1),189,Efficient SLCA-Based Keyword Search on XML Databases: An Iterative-Skip Approach.,Fudan University,2010
+"Wentao Wu 0001,Yanghua Xiao,Wei Wang,Zhenying He,Zhihui Wang",Wei Wang 0009,EDBT,190,k-symmetry model for identity anonymization in social networks.,Fudan University,2010
+"Huisheng Zhu,Peng Wang,Xianmang He,Yujia Li,Wei Wang,Baile Shi",Wei Wang 0009,ICDM,191,Efficient Episode Mining with Minimal and Non-overlapping Occurrences.,Fudan University,2010
+"Peng Wang,Haixun Wang,Majin Liu,Wei Wang",Wei Wang 0009,SIGMOD Conference,192,An algorithmic approach to event summarization.,Fudan University,2010
+"Jiangjiao Duan,Wei Wang,Jianping Zeng,Dongzhan Zhang,Baile Shi",Wei Wang 0009,Expert Syst. Appl.,193,A prediction algorithm for time series based on adaptive model selection.,Fudan University,2009
+"Hang Guo,Jidong Chen,Wentao Wu 0001,Wei Wang",Wei Wang 0009,CloudDb,194,Personalization as a service: the architecture and a case study.,Fudan University,2009
+"Jidong Chen,Hang Guo,Wentao Wu 0001,Wei Wang",Wei Wang 0009,CIKM,195,iMecho: an associative memory based desktop search system.,Fudan University,2009
+"Zijing Tan,Chengfei Liu,Wei Wang,Baile Shi",Wei Wang 0009,DASFAA,196,Consistent Answers from Integrated XML Data.,Fudan University,2009
+"Yanghua Xiao,Wentao Wu 0001,Jian Pei,Wei Wang,Zhenying He",Wei Wang 0009,EDBT,197,Efficiently indexing shortest paths by exploiting symmetry in graphs.,Fudan University,2009
+"Chen Lin,Jiang-Ming Yang,Rui Cai,Xin-Jing Wang,Wei Wang,Lei Zhang 0001",Wei Wang 0009,SIGIR,198,Simultaneously modeling semantics and structure of threaded discussions: a sparse coding approach and its applications.,Fudan University,2009
+"Chen Lin,Jiang-Ming Yang,Rui Cai,Xin-Jing Wang,Wei Wang,Lei Zhang 0001",Wei Wang 0009,WWW,199,Modeling semantics and structure of discussion threads.,Fudan University,2009
+"Zhenhua Huang,Jiankui Guo,Sheng-Li Sun,Wei Wang",Wei Wang 0009,J. Comput. Sci. Technol.,200,Efficient Optimization of Multiple Subspace Skyline Queries.,Fudan University,2008
+"Yanghua Xiao,Hua Dong,Wentao Wu 0001,Momiao Xiong,Wei Wang,Baile Shi",Wei Wang 0009,Pattern Recognition,201,Structure-based graph distance measures of high degree of precision.,Fudan University,2008
+"Zijing Tan,Wei Wang,Baile Shi",Wei Wang 0009,AINA,202,Reasoning and Merging in XML Data Integration.,Fudan University,2008
+"Yanghua Xiao,Wentao Wu 0001,Wei Wang,Zhenying He",Wei Wang 0009,DASFAA,203,Efficient Algorithms for Node Disjoint Subgraph Homeomorphism Determination.,Fudan University,2008
+"Mei Wang,Hongtao Xu,Guoyu Hao,Xiangdong Zhou,Wei Wang,Qi Zhang,Baile Shi",Wei Wang 0009,ICDE,204,PictureBook: A Text-and-Image Summary System for Web Search Result.,Fudan University,2008
+"Xiaochen Wu,Peng Wang,Wei Wang,Baile Shi",Wei Wang 0009,PAKDD,205,Data-Aware Clustering Hierarchy for Wireless Sensor Networks.,Fudan University,2008
+"Chen Lin,Haofeng Zhou,Zhenhua Huang,Wei Wang",Wei Wang 0009,WAIM,206,REC: A Novel Model to Rank Experts in Communities.,Fudan University,2008
+"Zhihui Wang,Wei Wang,Baile Shi",Wei Wang 0009,WAIM,207,A New Approach for Detecting Anonymity of Patterns.,Fudan University,2008
+"Zijing Tan,Zijun Zhang,Wei Wang,Baile Shi",Wei Wang 0009,Information  Software Technology,208,Consistent data for inconsistent XML document.,Fudan University,2007
+"Jian Pei,Jiawei Han 0001,Wei Wang",Wei Wang 0009,J. Intell. Inf. Syst.,209,Constraint-based sequential pattern mining: the pattern-growth methods.,Fudan University,2007
+"Peng Wang,Haixun Wang,Xiaochen Wu,Wei Wang,Baile Shi",Wei Wang 0009,IEEE Trans. Knowl. Data Eng.,210,A Low-Granularity Classifier for Data Streams with Concept Drifts and Biased Class Distribution.,Fudan University,2007
+"Zhihui Wang,Wei Wang,Baile Shi,S. H. Boey",Wei Wang 0009,DASFAA,211,Privacy-Preserving Frequent Pattern Sharing.,Fudan University,2007
+"Zhihui Wang,Wei Wang,Baile Shi",Wei Wang 0009,ICDE,212,Blocking Inference Channels in Frequent Pattern Sharing.,Fudan University,2007
+"Jin Yuan,Xiangdong Zhou,Junqi Zhang,Mei Wang,Qi Zhang,Wei Wang,Baile Shi",Wei Wang 0009,ICME,213,Positive Sample Enhanced Angle-Diversity Active Learning for SVM Based Image Retrieval.,Fudan University,2007
+"Jin Yuan,Xiangdong Zhou,Hongtao Xu,Mei Wang,Wei Wang",Wei Wang 0009,PCM,214,A Novel Active Learning Approach for SVM Based Web Image Retrieval.,Fudan University,2007
+"Jian Pei,Jian Xu,Zhibin Wang,Wei Wang,Ke Wang 0001",Wei Wang 0009,SSDBM,215,Maintaining K-Anonymity against Incremental Updates.,Fudan University,2007
+"Zhongmin Xiong,Wei Wang,Jian Pei",Wei Wang 0009,APWeb/WAIM,216,Active Rules Termination Analysis Through Conditional Formula Containing Updatable Variable.,Fudan University,2007
+"Zijing Tan,Zijun Zhang,Wei Wang,Baile Shi",Wei Wang 0009,APWeb/WAIM,217,Computing Repairs for Inconsistent XML Document Using Chase.,Fudan University,2007
+"Yanghua Xiao,Wentao Wu 0001,Wei Wang,Zhenying He",Wei Wang 0009,CoRR,218,Efficient Algorithms for Node Disjoint Subgraph Homeomorphism Determination,Fudan University,2007
+"Jian Xu,Wei Wang,Jian Pei,Xiaoyuan Wang,Baile Shi,Ada Wai-Chee Fu",Wei Wang 0009,SIGKDD Explorations,219,Utility-based anonymization for privacy preservation with less information loss.,Fudan University,2006
+"Zhenhua Huang,Wei Wang",Wei Wang 0009,ADMA,220,Mining the Useful Skyline Set Based on the Acceptable Difference.,Fudan University,2006
+"Jianjun Xu,Jiaheng Lu,Wei Wang,Baile Shi",Wei Wang 0009,DASFAA,221,Effective Keyword Search in XML Documents Based on MIU.,Fudan University,2006
+"Xiaoyuan Wang,Wei Wang",Wei Wang 0009,DASFAA,222,Continuous Expansion: Efficient Processing of Continuous Range Monitoring in Mobile Environments.,Fudan University,2006
+"Zhenhua Huang,Wei Wang",Wei Wang 0009,DEXA,223,A Novel Incremental Maintenance Algorithm of SkyCube.,Fudan University,2006
+"Zhihui Wang,Wei Wang,Baile Shi,S. H. Boey",Wei Wang 0009,ICDM Workshops,224,Preserving Private Knowledge in Frequent Pattern Mining.,Fudan University,2006
+"Peng Wang,Haixun Wang,Wei Wang,Baile Shi,Philip S. Yu",Wei Wang 0009,ICDM,225,LOCI: Load Shedding through Class-Preserving Data Acquisition.,Fudan University,2006
+"Jun Li 0017,Haofeng Zhou,Wei Wang",Wei Wang 0009,ICDM,226,Gradual Cube: Customize Profile on Mobile OLAP.,Fudan University,2006
+"Zijing Tan,Wei Wang,Baile Shi",Wei Wang 0009,IMSCCS (2),227,Extending Tree Automata to Obtain Consistent Query Answer from Inconsistent XML Document.,Fudan University,2006
+"Xufeng Zhang,Weiwei Sun,Wei Wang,Yahui Feng,Baile Shi",Wei Wang 0009,IMSCCS (2),228,Generating Incremental ETL Processes Automatically.,Fudan University,2006
+"Jian Xu,Wei Wang,Jian Pei,Xiaoyuan Wang,Baile Shi,Ada Wai-Chee Fu",Wei Wang 0009,KDD,229,Utility-based anonymization using local recoding.,Fudan University,2006
+"Zijing Tan,Wei Wang,Jianjun Xu,Baile Shi",Wei Wang 0009,KSEM,230,Repairing Inconsistent XML Documents.,Fudan University,2006
+"Xiaoyuan Wang,Qing Zhang,Weiwei Sun,Wei Wang,Baile Shi",Wei Wang 0009,MDM,231,A Coverage-Based Maximum Lifetime Data Gathering Algorithm in Sensor Networks.,Fudan University,2006
+"Bing Liu 0009,Zhihui Wang,Xiaoming Yang,Wei Wang,Baile Shi",Wei Wang 0009,RSKT,232,A Bottom-Up Distance-Based Index Tree for Metric Space.,Fudan University,2006
+"Bing Liu 0009,Jianjun Xu,Zhihui Wang,Wei Wang,Baile Shi",Wei Wang 0009,RSKT,233,Subsequence Similarity Search Under Time Shifting.,Fudan University,2006
+"Junqi Zhang,Xiangdong Zhou,Wei Wang,Baile Shi,Jian Pei",Wei Wang 0009,VLDB,234,Using High Dimensional Indexes to Support Relevance Feedback Based Interactive Images Retrival.,Fudan University,2006
+"Zhihui Wang,Bing Liu 0009,Wei Wang,Haofeng Zhou,Baile Shi",Wei Wang 0009,WAIM,235,An Effective Approach for Hiding Sensitive Knowledge in Data Publishing.,Fudan University,2006
+"Xiaoyuan Wang,Weiwei Sun,Wei Wang",Wei Wang 0009,WAIM,236,Bulkloading Updates for Moving Objects.,Fudan University,2006
+"Bing Liu 0009,Yuliang Shi,Zhihui Wang,Wei Wang,Baile Shi",Wei Wang 0009,WAIM,237,Dynamic Incremental Data Summarization for Hierarchical Clustering.,Fudan University,2006
+"Bing Liu 0009,Zhihui Wang,Jingtao Li,Wei Wang,Baile Shi",Wei Wang 0009,WAIM,238,Tight Bounds on the Estimation Distance Using Wavelet.,Fudan University,2006
+"Moonjung Cho,Jian Pei,Haixun Wang,Wei Wang",Wei Wang 0009,IJDWM,239,Preference-Based Frequent Pattern Mining.,Fudan University,2005
+"Zheng-Fei Wang,Wei Wang,Baile Shi",Wei Wang 0009,CIT,240,Storage and Query over Encrypted Character and Numerical Data in Database.,Fudan University,2005
+"Heping Yan,Bing Liu 0009,Xiaoming Yang,Wei Wang,Baile Shi,Genxing Yang",Wei Wang 0009,CIT,241,Controlling FD and MVD Inferences in MLS.,Fudan University,2005
+"Jin Pan,Peng Wang,Wei Wang,Baile Shi,Genxing Yang",Wei Wang 0009,CIT,242,Efficient Algorithms for Mining Maximal Frequent Concatenate Sequences in Biological Datasets.,Fudan University,2005
+"Jiangjiao Duan,Wei Wang,Bing Liu 0009,Yongsheng Xue,Haofeng Zhou,Baile Shi",Wei Wang 0009,CIT,243,Incorporating with Recursive Model Training in Time Series Clustering.,Fudan University,2005
+"Zijing Tan,Jianjun Xu,Wei Wang,Baile Shi",Wei Wang 0009,CIT,244,Storing Normalized XML Documents in Normalized Relations.,Fudan University,2005
+"Xiaoming Yang,Zhibin Wang,Bing Liu 0009,Shouzhi Zhang,Wei Wang,Bole Shi",Wei Wang 0009,CIT,245,Non-Almost-Derivable Frequent Itemsets Mining.,Fudan University,2005
+"Zunping Cheng,Ding Zhou,Chen Wang,Jiankui Guo,Wei Wang,Baokang Ding,Baile Shi",Wei Wang 0009,APWeb,246,CLINCH: Clustering Incomplete High-Dimensional Data for Data Mining Application.,Fudan University,2005
+"Chen Wang,Yongtai Zhu,Tianyi Wu,Wei Wang,Baile Shi",Wei Wang 0009,APWeb,247,Constraint-Based Graph Mining in Large Database.,Fudan University,2005
+"Haixun Wang,Wei Wang",Wei Wang 0009,DASFAA,248,Stay Current and Relevant in Data Mining Research.,Fudan University,2005
+"Ming Hua,Shouzhi Zhang,Wei Wang,Haofeng Zhou,Baile Shi",Wei Wang 0009,DaWaK,249,FMC: An Approach for Privacy Preserving OLAP.,Fudan University,2005
+"Peng Wang,Haixun Wang,Xiaochen Wu,Wei Wang,Baile Shi",Wei Wang 0009,ICDM,250,On Reducing Classifier Granularity in Mining Concept-Drifting Data Streams.,Fudan University,2005
+"Weiping Ge,Wei Wang,Xiaorong Li,Baile Shi",Wei Wang 0009,PAKDD,251,A Privacy-Preserving Classification Mining Algorithm.,Fudan University,2005
+"Tianyi Wu,Jian Xu,Chen Wang,Wei Wang,Baile Shi",Wei Wang 0009,PAKDD,252,ADenTS: An Adaptive Density-Based Tree Structure for Approximating Aggregate Queries over Real Attributes.,Fudan University,2005
+"Wei Wang,Chen Wang,Yongtai Zhu,Baile Shi,Jian Pei,Xifeng Yan,Jiawei Han 0001",Wei Wang 0009,SIGMOD Conference,253,GraphMiner: a structural pattern-mining system for large disk-based graph databases and its applications.,Fudan University,2005
+"Xiaoyuan Wang,Qing Zhang,Weiwei Sun,Wei Wang,Baile Shi",Wei Wang 0009,WAIM,254,cGridex: Efficient Processing of Continuous Range Queries over Moving Objects.,Fudan University,2005
+"Chen Wang,Mingsheng Hong,Wei Wang,Baile Shi",Wei Wang 0009,J. Comput. Sci. Technol.,255,Chopper: Efficient Algorithm for Tree Mining.,Fudan University,2004
+"Wei Wang,Qingqing Yuan,Haofeng Zhou,Mingsheng Hong,Baile Shi",Wei Wang 0009,J. Comput. Sci. Technol.,256,Extracting Frequent Connected Subgraphs from Large Graph Sets.,Fudan University,2004
+"Yong Yan,Peng Wang,Chen Wang,Haofeng Zhou,Wei Wang,Baile Shi",Wei Wang 0009,APWeb,257,ANNE: An Efficient Framework on View Selection Problem.,Fudan University,2004
+"Zheng-Fei Wang,Jing Dai,Wei Wang,Baile Shi",Wei Wang 0009,CIS,258,Fast Query Over Encrypted Character Data in Database.,Fudan University,2004
+"Ding Zhou,Zunping Cheng,Chen Wang,Haofeng Zhou,Wei Wang,Baile Shi",Wei Wang 0009,DASFAA,259,SUDEPHIC: Self-Tuning Density-Based Partitioning and Hierarchical Clustering.,Fudan University,2004
+"Jun Tang,Dong Huang,Chen Wang,Wei Wang,Baile Shi",Wei Wang 0009,ER,260,GiSA: A Grid System for Genome Sequences Assembly.,Fudan University,2004
+"Min Yang,Zunping Cheng,Ning Shang,Mi Zhang,Min Li,Jing Dai,Wei Wang,Dilin Mao,Chuanshan Gao",Wei Wang 0009,GCC,261,iOmS: An Agent-Based P2P Framework for Ubiquitous Workflow.,Fudan University,2004
+"Chen Wang,Wei Wang,Jian Pei,Yongtai Zhu,Baile Shi",Wei Wang 0009,KDD,262,Scalable mining of large disk-based graph databases.,Fudan University,2004
+"Chen Wang,Mingsheng Hong,Jian Pei,Haofeng Zhou,Wei Wang,Baile Shi",Wei Wang 0009,PAKDD,263,Efficient Pattern-Growth Methods for Frequent Tree Pattern Mining.,Fudan University,2004
+"Haofeng Zhou,Yubo Lou,Qingqing Yuan,Wilfred Ng,Wei Wang,Baile Shi",Wei Wang 0009,IDEAS,264,Refining Web Authoritative Resource by Frequent Structures.,Fudan University,2003
+"Mingsheng Hong,Haofeng Zhou,Wei Wang,Baile Shi",Wei Wang 0009,PAKDD,265,An Efficient Algorithm of Frequent Connected Subgraph Extraction.,Fudan University,2003
+"Jian Pei,Jiawei Han 0001,Wei Wang",Wei Wang 0009,CIKM,266,Mining sequential patterns with constraints in large databases.,Fudan University,2002
+"Qingqing Yuan,Yubo Lou,Haofeng Zhou,Wei Wang,Baile Shi",Wei Wang 0009,WAIM,267,Extract Frequent Pattern from Simple Graph Data.,Fudan University,2002
+"Wei Wang,Yujun Wang,Baile Shi",Wei Wang 0009,J. Comput. Sci. Technol.,268,Dynamic Interval Index Structure in Constraint Database Systems.,Fudan University,2000
+"Jiawei Han 0001,Shojiro Nishio,Hiroyuki Kawano,Wei Wang",Wei Wang 0009,Data Knowl. Eng.,269,Generalization-Based Data Mining in Object-Oriented Databases Using an Object Cube Model.,Fudan University,1998
+"Jiawei Han 0001,Yongjian Fu,Wei Wang,Jenny Chiang,Wan Gong,Krzysztof Koperski,Deyi Li,Yijun Lu,Amynmohamed Rajan,Nebojsa Stefanovic,Betty Xia,Osmar R. Za?ane",Wei Wang 0009,KDD,270,DBMiner: A System for Mining Knowledge in Large Relational Databases.,Fudan University,1996
+"Jiawei Han 0001,Yongjian Fu,Wei Wang,Jenny Chiang,Osmar R. Za?ane,Krzysztof Koperski",Wei Wang 0009,SIGMOD Conference,271,DBMiner: Interactive Mining of Multiple-Level Knowledge in Relational Databases.,Fudan University,1996
+"Nicholas J. Matiasz,Justin Wood,Wei Wang,Alcino J. Silva,William Hsu",Wei Wang 0010,Front. Neuroinform.,272,Computer-Aided Experiment Planning toward Causal Discovery in Neuroscience.,University of California Los Angeles,2017
+"Chelsea J.-T. Ju,Zhuangtian Zhao,Wei Wang",Wei Wang 0010,IEEE/ACM Trans. Comput. Biology Bioinform.,273,Efficient Approach to Correct Read Alignment for Pseudogene Abundance Estimates.,University of California Los Angeles,2017
+"Wei Cheng,Jingchao Ni,Kai Zhang 0001,Haifeng Chen,Guofei Jiang,Yu Shi,Xiang Zhang 0001,Wei Wang",Wei Wang 0010,TKDD,274,Ranking Causal Anomalies for System Fault Diagnosis via Temporal and Dynamical Analysis on Vanishing Correlations.,University of California Los Angeles,2017
+"Justin Wood,Patrick Tan,Wei Wang,Corey W. Arnold",Wei Wang 0010,ICDE,275,Source-LDA: Enhancing Probabilistic Topic Models Using Prior Knowledge Sources.,University of California Los Angeles,2017
+"Wenchao Yu,Charu C. Aggarwal,Wei Wang",Wei Wang 0010,WSDM,276,Temporally Factorized Network Modeling for Evolutionary Network Analysis.,University of California Los Angeles,2017
+"Nitesh Chawla,Wei Wang",Wei Wang 0010,SDM,277,"Proceedings of the 2017 SIAM International Conference on Data Mining, Houston, Texas, USA, April 27-29, 2017.",University of California Los Angeles,2017
+"Wei Cheng,Yu Shi,Xiang Zhang 0001,Wei Wang",Wei Wang 0010,BMC Bioinformatics,278,Sparse regression models for unraveling group and individual associations in eQTL mapping.,University of California Los Angeles,2016
+"Wei Cheng,Xiang Zhang 0001,Feng Pan,Wei Wang",Wei Wang 0010,Knowl. Inf. Syst.,279,HICC: an entropy splitting-based framework for hierarchical co-clustering.,University of California Los Angeles,2016
+"Wei Wang,Jure Leskovec",Wei Wang 0010,TKDD,280,Introduction to the Special Issue of Best Papers in ACM SIGKDD 2014.,University of California Los Angeles,2016
+"Wei Cheng,Zhishan Guo,Xiang Zhang 0001,Wei Wang",Wei Wang 0010,TKDD,281,CGC: A Flexible and Robust Approach to Integrating Co-Regularized Multi-Domain Graph for Clustering.,University of California Los Angeles,2016
+"Wei Cheng,Kai Zhang 0001,Haifeng Chen,Guofei Jiang,Zhengzhang Chen,Wei Wang",Wei Wang 0010,KDD,282,Ranking Causal Anomalies via Temporal and Dynamical Analysis on Vanishing Correlations.,University of California Los Angeles,2016
+"Wei Cheng,Shi Yu,Xiang Zhang 0001,Wei Wang",Wei Wang 0010,BMC Bioinformatics,283,Fast and robust group-wise eQTL mapping using sparse graphical models.,University of California Los Angeles,2015
+Wei Wang,Wei Wang 0010,AAAI,284,Data Science for Social Good - 2014 KDD Highlights.,University of California Los Angeles,2015
+"Sepideh Mazrouee,Wei Wang",Wei Wang 0010,BIBM,285,HapColor: A graph coloring framework for polyploidy phasing.,University of California Los Angeles,2015
+"Rui Liu,Wei Cheng,Hanghang Tong,Wei Wang,Xiang Zhang 0001",Wei Wang 0010,ICDM,286,Robust Multi-Network Clustering via Joint Cross-Domain Cluster Alignment.,University of California Los Angeles,2015
+"Wenchao Yu,Ariyam Das,Justin Wood,Wei Wang,Carlo Zaniolo,Ping Luo",Wei Wang 0010,ICDM,287,Max-Intensity: Detecting Competitive Advertiser Communities in Sponsored Search Market.,University of California Los Angeles,2015
+"Ruirui Li,Wei Wang",Wei Wang 0010,SDM,288,REAFUM: Representative Approximate Frequent Subgraph Mining.,University of California Los Angeles,2015
+"Shunping Huang,James Holt,Chia-Yu Kao,Leonard McMillan,Wei Wang",Wei Wang 0010,Database,289,A novel multi-alignment pipeline for high-throughput sequencing data.,University of California Los Angeles,2014
+"Wei Cheng,Xiang Zhang 0001,Zhishan Guo,Yu Shi,Wei Wang",Wei Wang 0010,Bioinformatics,290,Graph-regularized dual Lasso for robust eQTL mapping.,University of California Los Angeles,2014
+"Zhaojun Zhang,Wei Wang",Wei Wang 0010,Bioinformatics,291,RNA-Skim: a rapid method for RNA-Seq quantification at transcript level.,University of California Los Angeles,2014
+"Sepideh Mazrouee,Wei Wang",Wei Wang 0010,Bioinformatics,292,FastHap: fast and accurate single individual haplotype reconstruction using fuzzy conflict graphs.,University of California Los Angeles,2014
+"Yu Xiang,Wei Wang,Xiang Zhang 0001,Zhenwei Li",Wei Wang 0010,EURASIP J. Wireless Comm. and Networking,293,Performance research on time-triggered Ethernet based on network calculus.,University of California Los Angeles,2014
+"Wei Wang,Zhenyuan Wang",Wei Wang 0010,Fuzzy Sets and Systems,294,Total orderings defined on the set of all fuzzy numbers.,University of California Los Angeles,2014
+"Wei Cheng,Xiaoming Jin,Jian-Tao Sun,Xuemin Lin,Xiang Zhang 0001,Wei Wang",Wei Wang 0010,IEEE Trans. Knowl. Data Eng.,295,Searching Dimension Incomplete Databases.,University of California Los Angeles,2014
+"Chelsea J.-T. Ju,Zhuangtian Zhao,Wei Wang",Wei Wang 0010,BCB,296,PseudoLasso: leveraging read alignment in homologous regions to correct pseudogene expression estimates via RNASeq.,University of California Los Angeles,2014
+"Pierre Baldi,Wei Wang",Wei Wang 0010,BCB,297,"Proceedings of the 5th ACM Conference on Bioinformatics, Computational Biology, and Health Informatics, BCB '14, Newport Beach, California, USA, September 20-23, 2014",University of California Los Angeles,2014
+"Sofus A. Macskassy,Claudia Perlich,Jure Leskovec,Wei Wang,Rayid Ghani",Wei Wang 0010,KDD,298,"The 20th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, KDD '14, New York, NY, USA - August 24 - 27, 2014",University of California Los Angeles,2014
+"Zhaojun Zhang,Shunping Huang,Jack Wang,Xiang Zhang 0001,Fernando Pardo-Manuel de Villena,Leonard McMillan,Wei Wang",Wei Wang 0010,Bioinformatics,299,GeneScissors: a comprehensive approach to detecting and correcting spurious transcriptome inference owing to RNA-seq reads misalignment.,University of California Los Angeles,2013
+"Shunping Huang,Chia-Yu Kao,Leonard McMillan,Wei Wang",Wei Wang 0010,BCB,300,Transforming Genomes Using MOD Files with Applications.,University of California Los Angeles,2013
+"James Holt,Shunping Huang,Leonard McMillan,Wei Wang",Wei Wang 0010,BCB,301,Read Annotation Pipeline for High-Throughput Sequencing Data.,University of California Los Angeles,2013
+"Wei Cheng,Xiang Zhang 0001,Zhishan Guo,Yubao Wu,Patrick F. Sullivan,Wei Wang",Wei Wang 0010,KDD,302,Flexible and robust co-regularized multi-domain graph clustering.,University of California Los Angeles,2013
+"Wei Cheng,Wei Wang,Sandra Batista",Wei Wang 0010,Data Clustering: Algorithms and Applications,303,Grid-Based Clustering.,University of California Los Angeles,2013
+"Kai Xia,Andrey A. Shabalin,Shunping Huang,Vered Madar,Yi-Hui Zhou,Wei Wang,Fei Zou,Wei Sun 0006,Patrick F. Sullivan,Fred A. Wright",Wei Wang 0010,Bioinformatics,304,seeQTL: a searchable database for human eQTLs.,University of California Los Angeles,2012
+"Xiang Zhang 0001,Shunping Huang,Zhaojun Zhang,Wei Wang",Wei Wang 0010,PLoS Computational Biology,305,Chapter 10: Mining Genome-Wide Genetic Markers.,University of California Los Angeles,2012
+"Wei Cheng,Xiang Zhang 0001,Yubao Wu,Xiaolin Yin,Jing Li 0002,David Heckerman,Wei Wang",Wei Wang 0010,BCB,306,Inferring novel associations between SNP sets and gene sets in eQTL study using sparse graphical model.,University of California Los Angeles,2012
+"Wei Cheng,Xiang Zhang 0001,Feng Pan,Wei Wang",Wei Wang 0010,CIKM,307,Hierarchical co-clustering based on entropy splitting.,University of California Los Angeles,2012
+"Eric Yi Liu,Zhishan Guo,Xiang Zhang 0001,Vladimir Jojic,Wei Wang",Wei Wang 0010,ICDM,308,Metric Learning from Relative Comparisons by Minimizing Squared Residual.,University of California Los Angeles,2012
+"Mingsheng Long,Jianmin Wang 0001,Guiguang Ding,Wei Cheng,Xiang Zhang 0001,Wei Wang",Wei Wang 0010,SDM,309,Dual Transfer Learning.,University of California Los Angeles,2012
+"Xiang Zhang 0001,Shunping Huang,Fei Zou,Wei Wang",Wei Wang 0010,Source Code for Biology and Medicine,310,Tools for efficient epistasis detection in genome-wide association study.,University of California Los Angeles,2011
+"Ning Jin,Wei Wang",Wei Wang 0010,ICDE,311,LTS: Discriminative subgraph mining by learning from search history.,University of California Los Angeles,2011
+"Eric Yi Liu,Zhaojun Zhang,Wei Wang",Wei Wang 0010,KDD,312,Clustering with relative constraints.,University of California Los Angeles,2011
+"Wei Cheng,Xiaochuan Ni,Jian-Tao Sun,Xiaoming Jin,Hye-Chung Kum,Xiang Zhang 0001,Wei Wang",Wei Wang 0010,SocialCom/PASSAT,313,Measuring Opinion Relevance in Latent Topic Space.,University of California Los Angeles,2011
+"Robert Grossman,Andrey Rzhetsky,Sun Kim,Wei Wang",Wei Wang 0010,BCB,314,"ACM International Conference on Bioinformatics, Computational Biology and Biomedicine, BCB' 11, Chicago, IL, USA - July 31 - August 03, 2011",University of California Los Angeles,2011
+"Diane J. Cook,Jian Pei,Wei Wang,Osmar R. Za?ane,Xindong Wu",Wei Wang 0010,ICDM,315,"11th IEEE International Conference on Data Mining, ICDM 2011, Vancouver, BC, Canada, December 11-14, 2011",University of California Los Angeles,2011
+"Myra Spiliopoulou,Haixun Wang,Diane J. Cook,Jian Pei,Wei Wang,Osmar R. Za?ane,Xindong Wu",Wei Wang 0010,ICDM Workshops,316,"Data Mining Workshops (ICDMW), 2011 IEEE 11th International Conference on, Vancouver, BC, Canada, December 11, 2011",University of California Los Angeles,2011
+"Eric Yi Liu,Qi Zhang,Leonard McMillan,Fernando Pardo-Manuel de Villena,Wei Wang",Wei Wang 0010,Bioinformatics [ISMB],317,Efficient genome ancestry inference in complex pedigrees with inbreeding.,University of California Los Angeles,2010
+"Xiang Zhang 0001,Shunping Huang,Fei Zou,Wei Wang",Wei Wang 0010,Bioinformatics [ISMB],318,TEAM: efficient two-locus epistasis tests in human genome-wide association study.,University of California Los Angeles,2010
+"Ning Jin,Calvin Young,Wei Wang",Wei Wang 0010,IJKDB,319,Discriminative Subgraph Mining for Protein Classification.,University of California Los Angeles,2010
+"Xiang Zhang 0001,Feng Pan,Yuying Xie,Fei Zou,Wei Wang",Wei Wang 0010,Journal of Computational Biology,320,COE: A General Approach for Efficient Genome-Wide Two-Locus Epistasis Test in Disease Association Study.,University of California Los Angeles,2010
+"Deepak Bandyopadhyay,Jun Huan,Jinze Liu,Jan Prins,Jack Snoeyink,Wei Wang,Alexander Tropsha",Wei Wang 0010,IEEE Trans. Information Technology in Biomedicine,321,Functional neighbors: inferring relationships between nonhomologous protein families using family-specific packing motifs.,University of California Los Angeles,2010
+"Jeremy W. Wang,Kyle J. Moore,Qi Zhang,Fernando Pardo-Manuel de Villena,Wei Wang,Leonard McMillan",Wei Wang 0010,BCB,322,Genome-wide compatible SNP intervals and their properties.,University of California Los Angeles,2010
+"Isa Kemal Pakatci,Wei Wang,Leonard McMillan",Wei Wang 0010,BCB,323,Gene set analysis using principal components.,University of California Los Angeles,2010
+"Ning Jin,Calvin Young,Wei Wang",Wei Wang 0010,SIGMOD Conference,324,GAIA: graph classification using evolutionary computation.,University of California Los Angeles,2010
+"Wei Wang,Jiong Yang",Wei Wang 0010,Data Mining and Knowledge Discovery Handbook,325,Mining High-Dimensional Data.,University of California Los Angeles,2010
+"Deepak Bandyopadhyay,Jun Huan,Jan Prins,Jack Snoeyink,Wei Wang,Alexander Tropsha",Wei Wang 0010,Journal of Computer-Aided Molecular Design,326,Identification of family-specific residue packing motifs and their use for structure-based protein function prediction: I. Method development.,University of California Los Angeles,2009
+"Deepak Bandyopadhyay,Jun Huan,Jan Prins,Jack Snoeyink,Wei Wang,Alexander Tropsha",Wei Wang 0010,Journal of Computer-Aided Molecular Design,327,Identification of family-specific residue packing motifs and their use for structure-based protein function prediction: II. Case studies and applications.,University of California Los Angeles,2009
+"Xiang Zhang 0001,Fei Zou,Wei Wang",Wei Wang 0010,TKDD,328,Efficient algorithms for genome-wide association study.,University of California Los Angeles,2009
+"Ning Jin,Calvin Young,Wei Wang",Wei Wang 0010,CIKM,329,Graph classification based on pattern co-occurrence.,University of California Los Angeles,2009
+"Qi Zhang,Wei Wang,Leonard McMillan,Fernando Pardo-Manuel de Villena,David Threadgill",Wei Wang 0010,Pacific Symposium on Biocomputing,330,Inferring Genome-Wide Mosaic Structure.,University of California Los Angeles,2009
+"Feng Pan,Leonard McMillan,Fernando Pardo-Manuel de Villena,David Threadgill,Wei Wang",Wei Wang 0010,Pacific Symposium on Biocomputing,331,TreeQA: Quantitative Genome Wide Association Mapping Using Local Perfect Phylogeny Trees.,University of California Los Angeles,2009
+"Xiang Zhang 0001,Fei Zou,Wei Wang",Wei Wang 0010,Pacific Symposium on Biocomputing,332,FastChi: An Efficient Algorithm for Analyzing Gene-Gene Interactions.,University of California Los Angeles,2009
+"Xiang Zhang 0001,Feng Pan,Yuying Xie,Fei Zou,Wei Wang",Wei Wang 0010,RECOMB,333,COE: A General Approach for Efficient Genome-Wide Two-Locus Epistasis Test in Disease Association Study.,University of California Los Angeles,2009
+"Qi Zhang,Eric Yi Liu,Abhishek Sarkar,Wei Wang",Wei Wang 0010,SSDBM,334,Split-Order Distance for Clustering and Classification Hierarchies.,University of California Los Angeles,2009
+"Wei Wang,Hillol Kargupta,Sanjay Ranka,Philip S. Yu,Xindong Wu",Wei Wang 0010,ICDM,335,"ICDM 2009, The Ninth IEEE International Conference on Data Mining, Miami, Florida, USA, 6-9 December 2009",University of California Los Angeles,2009
+"Y¨¹cel Saygin,Jeffrey Xu Yu,Hillol Kargupta,Wei Wang,Sanjay Ranka,Philip S. Yu,Xindong Wu",Wei Wang 0010,ICDM Workshops,336,"ICDM Workshops 2009, IEEE International Conference on Data Mining Workshops, Miami, Florida, USA, 6 December 2009",University of California Los Angeles,2009
+"Xiang Zhang 0001,Feng Pan,Wei Wang,Andrew B. Nobel",Wei Wang 0010,PVLDB,337,Mining non-redundant high order correlations in binary data.,University of California Los Angeles,2008
+"Mohammed J. Zaki,George Karypis,Jiong Yang,Wei Wang",Wei Wang 0010,TKDD,338,Introduction to special issue on bioinformatics.,University of California Los Angeles,2008
+"Deepak Bandyopadhyay,Jun Huan,Jinze Liu,Jan Prins,Jack Snoeyink,Wei Wang,Alexander Tropsha",Wei Wang 0010,BIBM,339,Functional Neighbors: Inferring Relationships between Non-Homologous Protein Families Using Family-Specific Packing Motifs.,University of California Los Angeles,2008
+"Xiang Zhang 0001,Feng Pan,Wei Wang",Wei Wang 0010,CIKM,340,REDUS: finding reducible subspaces in high dimensional data.,University of California Los Angeles,2008
+"Xiang Zhang 0001,Feng Pan,Wei Wang",Wei Wang 0010,ICDE,341,CARE: Finding Local Linear Correlations in High Dimensional Data.,University of California Los Angeles,2008
+"Mengsheng Zhang,Wei Wang,Jinze Liu",Wei Wang 0010,ICDE,342,Mining Approximate Order Preserving Clusters in the Presence of Noise.,University of California Los Angeles,2008
+"Qi Zhang,Jinze Liu,Wei Wang",Wei Wang 0010,ICDE,343,Approximate Clustering on Distributed Data Streams.,University of California Los Angeles,2008
+"Feng Pan,Xiang Zhang 0001,Wei Wang",Wei Wang 0010,ICDE,344,A General Framework for Fast Co-clustering on Large Datasets Using Matrix Decomposition.,University of California Los Angeles,2008
+"Feng Pan,Lynda Yang,Leonard McMillan,Fernando Pardo-Manuel de Villena,David Threadgill,Wei Wang",Wei Wang 0010,ICDM,345,Quantitative Association Analysis Using Tree Hierarchies.,University of California Los Angeles,2008
+"Xiang Zhang 0001,Fei Zou,Wei Wang",Wei Wang 0010,KDD,346,Fastanova: an efficient algorithm for genome-wide association study.,University of California Los Angeles,2008
+"Feng Pan,Xiang Zhang 0001,Wei Wang",Wei Wang 0010,SIGMOD Conference,347,CRD: fast co-clustering on large datasets utilizing sampling-based matrix decomposition.,University of California Los Angeles,2008
+"Qi Zhang,Wei Wang,Leonard McMillan,Jan Prins,Fernando Pardo-Manuel de Villena,David Threadgill",Wei Wang 0010,WABI,348,Genotype Sequence Segmentation: Handling Constraints and Noise.,University of California Los Angeles,2008
+"Hye-Chung Kum,Joong Hyuk Chang,Wei Wang",Wei Wang 0010,Data Knowl. Eng.,349,Benchmarking the effectiveness of sequential pattern mining methods.,University of California Los Angeles,2007
+"Qi Zhang,Wei Wang",Wei Wang 0010,CIKM,350,An efficient algorithm for approximate biased quantile computation in data streams.,University of California Los Angeles,2007
+"Feng Pan,Wei Wang,Leonard McMillan",Wei Wang 0010,ICDE,351,Accelerating Profile Queries in Elevation Maps.,University of California Los Angeles,2007
+"David W. Williams,Jun Huan,Wei Wang",Wei Wang 0010,ICDE,352,Graph Database Indexing Using Structured Graph Decomposition.,University of California Los Angeles,2007
+"Feng Pan,Adam Roberts,Leonard McMillan,David Threadgill,Wei Wang",Wei Wang 0010,ICDM,353,Sample Selection for Maximal Diversity.,University of California Los Angeles,2007
+"Qi Zhang,Jinze Liu,Wei Wang",Wei Wang 0010,ICDM,354,Incremental Subspace Clustering over Multiple Data Streams.,University of California Los Angeles,2007
+"Adam Roberts,Leonard McMillan,Wei Wang,Joel Parker,Ivan Rusyn,David Threadgill",Wei Wang 0010,ISMB/ECCB (Supplement of Bioinformatics),355,Inferring missing genotypes in large SNP panels using fast nearest-neighbor searches over sliding windows.,University of California Los Angeles,2007
+"Hye-Chung Kum,Joong Hyuk Chang,Wei Wang",Wei Wang 0010,PAKDD,356,Intelligent Sequential Mining Via Alignment: Optimization Techniques for Very Large DB.,University of California Los Angeles,2007
+"Jinze Liu,Qi Zhang,Wei Wang,Leonard McMillan,Jan Prins",Wei Wang 0010,SDM,357,PoClustering: Lossless Clustering of Dissimilarity Data.,University of California Los Angeles,2007
+"Xiang Zhang 0001,Wei Wang,Jun Huan",Wei Wang 0010,SDM,358,On Demand Phenotype Ranking through Subspace Clustering.,University of California Los Angeles,2007
+"Qi Zhang,Wei Wang",Wei Wang 0010,SSDBM,359,A Fast Algorithm for Approximate Quantiles in High Speed Data Streams.,University of California Los Angeles,2007
+"Xueyi Wang,Jun Huan,Jack Snoeyink,Wei Wang",Wei Wang 0010,SSDBM,360,Mining RNA Tertiary Motifs with Structure Graphs.,University of California Los Angeles,2007
+"Xiang Zhang 0001,Wei Wang",Wei Wang 0010,SSDBM,361,An Efficient Algorithm for Mining Coherent Patterns from Heterogeneous Microarrays.,University of California Los Angeles,2007
+"Jun Huan,Jan Prins,Wei Wang",Wei Wang 0010,Advances in Computers,362,Local Structure Comparison of Proteins.,University of California Los Angeles,2006
+"Hye-Chung Kum,Joong Hyuk Chang,Wei Wang",Wei Wang 0010,Data Min. Knowl. Discov.,363,Sequential Pattern Mining in Multi-Databases via Multiple Alignment.,University of California Los Angeles,2006
+"Xiang Zhang 0001,Wei Wang",Wei Wang 0010,CIKM,364,Mining coherent patterns from heterogeneous microarray data.,University of California Los Angeles,2006
+"Xin Xu,Ying Lu,Anthony K. H. Tung,Wei Wang",Wei Wang 0010,ICDE,365,Mining Shifting-and-Scaling Co-Regulation Patterns on Gene Expression Profiles.,University of California Los Angeles,2006
+"Jinze Liu,Qi Zhang,Wei Wang,Leonard McMillan,Jan Prins",Wei Wang 0010,KDD,366,Clustering pair-wise dissimilarity data into partially ordered sets.,University of California Los Angeles,2006
+"Wen Jin,Anthony K. H. Tung,Jiawei Han 0001,Wei Wang",Wei Wang 0010,PAKDD,367,Ranking Outliers Using Symmetric Neighborhood Relationship.,University of California Los Angeles,2006
+"Jinze Liu,Susan Paulsen,Xing Sun,Wei Wang,Andrew B. Nobel,Jan Prins",Wei Wang 0010,SDM,368,Mining Approximate Frequent Itemsets In the Presence of Noise: Algorithm and Analysis.,University of California Los Angeles,2006
+"Guodong Liu,Jingdan Zhang,Wei Wang,Leonard McMillan",Wei Wang 0010,SI3D,369,Human motion estimation from a reduced marker set.,University of California Los Angeles,2006
+"Guodong Liu,Jingdan Zhang,Wei Wang,Leonard McMillan",Wei Wang 0010,SIGGRAPH Sketches,370,Human motion estimation from a reduced marker set.,University of California Los Angeles,2006
+"Wei Wang,Jiong Yang",Wei Wang 0010,SIGGRAPH Courses,371,Mining Sequential Patterns from Large Data Sets,University of California Los Angeles,2005
+"Jiong Yang,Haixun Wang,Wei Wang,Philip S. Yu",Wei Wang 0010,International Journal on Artificial Intelligence Tools,372,An Improved Biclustering Method for Analyzing Gene Expression Profiles.,University of California Los Angeles,2005
+"Jun Huan,Deepak Bandyopadhyay,Wei Wang,Jack Snoeyink,Jan Prins,Alexander Tropsha",Wei Wang 0010,Journal of Computational Biology,373,Comparing Graph Representations of Protein Structure for Mining Family-Specific Residue-Based Packing Motifs.,University of California Los Angeles,2005
+"Srinivasan Parthasarathy 0001,Wei Wang,Mohammed Javeed Zaki",Wei Wang 0010,SIGKDD Explorations,374,BIOKDD 2005 workshop report.,University of California Los Angeles,2005
+"Feng Pan,Wei Wang,Anthony K. H. Tung,Jiong Yang",Wei Wang 0010,ICDM,375,Finding Representative Set from Massive Data.,University of California Los Angeles,2005
+"Jinze Liu,Susan Paulsen,Wei Wang,Andrew B. Nobel,Jan Prins",Wei Wang 0010,ICDM,376,Mining Approximate Frequent Itemsets from Noisy Data.,University of California Los Angeles,2005
+"Naga K. Govindaraju,Brandon Lloyd,Wei Wang,Ming C. Lin,Dinesh Manocha",Wei Wang 0010,SIGGRAPH Courses,377,Fast computation of database operations using graphics processors.,University of California Los Angeles,2005
+"Guodong Liu,Jingdan Zhang,Wei Wang,Leonard McMillan",Wei Wang 0010,SIGMOD Conference,378,A system for analyzing and indexing human-motion databases.,University of California Los Angeles,2005
+"Wei Wang,Jiong Yang",Wei Wang 0010,The Data Mining and Knowledge Discovery Handbook,379,Mining High-Dimensional Data.,University of California Los Angeles,2005
+"Hye-Chung (Monica) Kum,Susan Paulsen,Wei Wang",Wei Wang 0010,Foundations of Data Mining and knowledge Discovery,380,Comparative Study of Sequential Pattern Mining Models.,University of California Los Angeles,2005
+"Srinivasan Parthasarathy 0001,Wei Wang,Mohammed J. Zaki",Wei Wang 0010,BIOKDD,381,"Proceedings of the 5th international workshop on Bioinformatics, BIOKDD 2005, Chicago, Illinois, USA, August 21, 2005",University of California Los Angeles,2005
+"Wei Wang,Jiong Yang",Wei Wang 0010,IEEE Trans. Knowl. Data Eng.,382,Guest Editors' Introduction: Special Issue on Mining Biological Data.,University of California Los Angeles,2005
+"Jiong Yang,Wei Wang,Philip S. Yu",Wei Wang 0010,Data Min. Knowl. Discov.,383,Mining Surprising Periodic Patterns.,University of California Los Angeles,2004
+"Wei Wang,Jiong Yang,Philip S. Yu",Wei Wang 0010,Knowl. Inf. Syst.,384,WAR: Weighted Association Rules for Item Intensities.,University of California Los Angeles,2004
+"Jiong Yang,Wei Wang,Philip S. Yu",Wei Wang 0010,Knowl. Inf. Syst.,385,Discovering High-Order Periodic Patterns.,University of California Los Angeles,2004
+"Jinze Liu,Jiong Yang,Wei Wang",Wei Wang 0010,CSB,386,Biclustering in Gene Expression Data by Tendency.,University of California Los Angeles,2004
+"Jinze Liu,Wei Wang,Jiong Yang",Wei Wang 0010,CSB,387,Gene Ontology Friendly Biclustering of Expression Profiles.,University of California Los Angeles,2004
+"Dean Duncan,Hye-Chung Kum,Kimberly Flair,Wei Wang",Wei Wang 0010,DG.O,388,Adopting IT for Effective Management of Social Welfare Programs.,University of California Los Angeles,2004
+"Dean Duncan,Hye-Chung Kum,Kimberly Flair,Wei Wang",Wei Wang 0010,DG.O,389,Successfully Adopting IT for Social Welfare Program Management.,University of California Los Angeles,2004
+"Hye-Chung Kum,Dean Duncan,Wei Wang",Wei Wang 0010,DG.O,390,Understanding Social Welfare Service Patterns Using Sequential Analysis.,University of California Los Angeles,2004
+"Jinze Liu,Karl Strohmaier,Wei Wang",Wei Wang 0010,ICDM,391,Revealing True Subspace Clusters in High Dimensions.,University of California Los Angeles,2004
+"Jiong Yang,Wei Wang",Wei Wang 0010,ICDM,392,AGILE: A General Approach to Detect Transitions in Evolving Data Streams.,University of California Los Angeles,2004
+"Jun Huan,Wei Wang,Jan Prins,Jiong Yang",Wei Wang 0010,KDD,393,SPIN: mining maximal frequent subgraphs from graph databases.,University of California Los Angeles,2004
+"Jinze Liu,Wei Wang,Jiong Yang",Wei Wang 0010,KDD,394,A framework for ontology-driven subspace clustering.,University of California Los Angeles,2004
+"Jun Huan,Wei Wang,Anglina Washington,Jan Prins,Ruchir Shah,Alexander Tropsha",Wei Wang 0010,Pacific Symposium on Biocomputing,395,Accurate Classification of Protein Structural Families Using Coherent Subgraph Analysis.,University of California Los Angeles,2004
+"Jun Huan,Wei Wang,Deepak Bandyopadhyay,Jack Snoeyink,Jan Prins,Alexander Tropsha",Wei Wang 0010,RECOMB,396,Mining protein family specific residue packing patterns from protein structure graphs.,University of California Los Angeles,2004
+"Naga K. Govindaraju,Brandon Lloyd,Wei Wang,Ming C. Lin,Dinesh Manocha",Wei Wang 0010,SIGMOD Conference,397,Fast Computation of Database Operations using Graphics Processors.,University of California Los Angeles,2004
+"Jiong Yang,Wei Wang,Philip S. Yu",Wei Wang 0010,SSDBM,398,BASS: Approximate Search on Large String Databases.,University of California Los Angeles,2004
+"Zhiyuan Chen,Li Chen,Jian Pei,Yufei Tao,Haixun Wang,Wei Wang,Jiong Yang,Jun Yang 0001,Donghui Zhang",Wei Wang 0010,J. Comput. Sci. Technol.,399,Recent Progress on Selected Topics in Database Research - A Report by Nine Young Chinese Researchers Working in the United States.,University of California Los Angeles,2003
+"Jiong Yang,Wei Wang,Philip S. Yu",Wei Wang 0010,IEEE Trans. Knowl. Data Eng.,400,Mining Asynchronous Periodic Patterns in Time Series Data.,University of California Los Angeles,2003
+"Jiong Yang,Haixun Wang,Wei Wang,Philip S. Yu",Wei Wang 0010,BIBE,401,Enhanced Biclustering on Expression Data.,University of California Los Angeles,2003
+"Hwanjo Yu,Jiong Yang,Wei Wang,Jiawei Han 0001",Wei Wang 0010,CSB,402,Discovering Compact and Highly Discriminative Features or Feature Combinations of Drug Activities Using Support Vector Machines.,University of California Los Angeles,2003
+"Jun Huan,Jan Prins,Wei Wang,Todd J. Vision",Wei Wang 0010,CSB,403,Reconstruction of Ancestral Gene Order after Segmental Duplication and Gene Loss.,University of California Los Angeles,2003
+"Hye-Chung (Monica) Kum,Dean Duncan,Kimberly Flair,Wei Wang",Wei Wang 0010,DG.O,404,Management Assistance for Work First via a Dynamic Website.,University of California Los Angeles,2003
+"Hye-Chung (Monica) Kum,Dean Duncan,Kimberly Flair,Wei Wang",Wei Wang 0010,DG.O,405,Social Welfare Program Administration and Evaluation and Policy Analysis Using Knowledge Discovery and Data Mining (KDD) on Administrative Data.,University of California Los Angeles,2003
+"Jiong Yang,Wei Wang",Wei Wang 0010,ICDE,406,CLUSEQ: Efficient and Effective Sequence Clustering.,University of California Los Angeles,2003
+"Jinze Liu,Wei Wang",Wei Wang 0010,ICDM,407,OP-Cluster: Clustering by Tendency in High Dimensional Space.,University of California Los Angeles,2003
+"Jun Huan,Wei Wang,Jan Prins",Wei Wang 0010,ICDM,408,Efficient Mining of Frequent Subgraphs in the Presence of Isomorphism.,University of California Los Angeles,2003
+"Jiong Yang,Wei Wang,Philip S. Yu",Wei Wang 0010,SDM,409,STAMP: On Discovery of Statistically Important Pattern Repeats in Long Sequential Data.,University of California Los Angeles,2003
+"Hye-Chung Kum,Jian Pei,Wei Wang,Dean Duncan",Wei Wang 0010,SDM,410,ApproxMAP: Approximate Mining of Consensus Sequential Patterns.,University of California Los Angeles,2003
+"Guozhu Dong,Changjie Tang,Wei Wang",Wei Wang 0010,WAIM,411,"Advances in Web-Age Information Management, 4th International Conference, WAIM 2003, Chengdu, China, August 17-19, 2003, Proceedings",University of California Los Angeles,2003
+"Jiong Yang,Wei Wang",Wei Wang 0010,CSB,412,Towards Automatic Clustering of Protein Sequences.,University of California Los Angeles,2002
+"Jiong Yang,Wei Wang,Yi Xia,Philip S. Yu",Wei Wang 0010,CSB,413,Accelerating Approximate Subsequence Search on Large Protein Sequence Databases.,University of California Los Angeles,2002
+"Wei Wang,Jiong Yang",Wei Wang 0010,ICDE,414,A Framework Towards Efficient and Effective Sequence Clusterin.,University of California Los Angeles,2002
+"Jiong Yang,Wei Wang,Haixun Wang,Philip S. Yu",Wei Wang 0010,ICDE,415,delta-Clusters: Capturing Subspace Correlation in a Large Data Set.,University of California Los Angeles,2002
+"Jiong Yang,Wei Wang,Philip S. Yu",Wei Wang 0010,ICDM,416,InfoMiner+: Mining Partial Periodic Patterns with Gap Penalties.,University of California Los Angeles,2002
+"Yi Xia,Wei Wang,Jiong Yang,Philip S. Yu,Richard R. Muntz",Wei Wang 0010,SDM,417,Efficient Filtering of Large DatasetA User-Centric Paradigm.,University of California Los Angeles,2002
+"Haixun Wang,Wei Wang,Jiong Yang,Philip S. Yu",Wei Wang 0010,SIGMOD Conference,418,Clustering by pattern similarity in large data sets.,University of California Los Angeles,2002
+"Jiong Yang,Wei Wang,Philip S. Yu,Jiawei Han 0001",Wei Wang 0010,SIGMOD Conference,419,Mining long sequential patterns in a noisy environment.,University of California Los Angeles,2002
+"Wei Wang,Jiong Yang,Richard R. Muntz",Wei Wang 0010,ICDE,420,TAR: Temporal Association Rules on Evolving Numerical Attributes.,University of California Los Angeles,2001
+"Wei Wang,Jiong Yang,Philip S. Yu",Wei Wang 0010,ICDM,421,Meta-patterns: Revealing Hidden Periodic Patterns.,University of California Los Angeles,2001
+"Jiong Yang,Wei Wang,Philip S. Yu",Wei Wang 0010,KDD,422,Infominer: mining surprising periodic patterns.,University of California Los Angeles,2001
+"Wei Wang,Jiong Yang,Philip S. Yu",Wei Wang 0010,SIGKDD Explorations,423,Mining Patterns in Long Sequential Data with Noise.,University of California Los Angeles,2000
+"Jiong Yang,Wei Wang,Silvia Nittel,Richard R. Muntz,Vince Busam",Wei Wang 0010,"Softw., Pract. Exper.",424,"Dynamo: design, implementation, and evaluation of cooperative persistent object management in a local area network.",University of California Los Angeles,2000
+"Wei Wang,Jiong Yang,Richard R. Muntz",Wei Wang 0010,IEEE Trans. Knowl. Data Eng.,425,An Approach to Active Spatial Data Mining Based on Statistical Information.,University of California Los Angeles,2000
+"Jiong Yang,Wei Wang,Richard R. Muntz,Silvia Nittel",Wei Wang 0010,ICDCS,426,Dynamic Adaptive File Management in a Local Area Network.,University of California Los Angeles,2000
+"Wei Wang,Jiong Yang,Philip S. Yu",Wei Wang 0010,KDD,427,Efficient mining of weighted association rules (WAR).,University of California Los Angeles,2000
+"Jiong Yang,Wei Wang,Philip S. Yu",Wei Wang 0010,KDD,428,Mining asynchronous periodic patterns in time series data.,University of California Los Angeles,2000
+"Jiong Yang,Wei Wang,Richard R. Muntz",Wei Wang 0010,SIGMETRICS,429,Collaborative Web caching based on proxy affinities.,University of California Los Angeles,2000
+"Wei Wang,Jiong Yang,Richard R. Muntz",Wei Wang 0010,ICDE,430,STING+: An Approach to Active Spatial Data Mining.,University of California Los Angeles,1999
+"Weiyi Meng,Clement T. Yu,Wei Wang,Naphtali Rishe",Wei Wang 0010,IEEE Trans. Knowl. Data Eng.,431,Performance Analysis of Three Text-Join Algorithms.,University of California Los Angeles,1998
+"Wei Wang,Jiong Yang,Richard R. Muntz",Wei Wang 0010,FODO,432,PK-tree: A Spatial Index Structure for High Dimensional Point Data.,University of California Los Angeles,1998
+"Jiong Yang,Silvia Nittel,Wei Wang,Richard R. Muntz",Wei Wang 0010,POS/PJW,433,DynamO: Dynamic Objects with Persistent Storage.,University of California Los Angeles,1998
+"Wei Wang,Jiong Yang,Richard R. Muntz",Wei Wang 0010,VLDB,434,STING: A Statistical Information Grid Approach to Spatial Data Mining.,University of California Los Angeles,1997
+"Weiyi Meng,Clement T. Yu,Wei Wang,Naphtali Rishe",Wei Wang 0010,ICDE,435,Performance Analysis of Several Algorithms for Processing Joins between Textual Attributes.,University of California Los Angeles,1996
